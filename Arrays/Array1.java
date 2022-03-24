@@ -1,5 +1,5 @@
 //program to create an array,take input from the user and print the elements of the Array
-import java.util.Scanner;
+import java.util.*;
 public class Array1
 {
 	public static void main(String arg[])	
