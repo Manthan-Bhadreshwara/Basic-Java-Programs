@@ -1,5 +1,5 @@
 //Program to calcutate the sum and average of elements in an array
-import java.util.Scanner;
+import java.util.*;
 public class ArraySumAvg
 {
 	public static void main(String arg[])	
