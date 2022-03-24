@@ -1,2 +1,2 @@
 # Basic-Java-Programs
-Arrays Folder just has single dimensional array
+Note : Array Folder just has single dimensional array
