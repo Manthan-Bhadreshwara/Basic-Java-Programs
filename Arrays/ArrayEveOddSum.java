@@ -1,4 +1,5 @@
 //Program to calculate the sum of even and odd numbers in an Array
+import java.util.*;
 public class ArrayEveOddSum
 {
 	public static void main(String arg[])
