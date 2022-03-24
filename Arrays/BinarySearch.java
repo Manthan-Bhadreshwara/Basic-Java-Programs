@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Binary
+public class BinarySearch
 {
 	public static void main(String arg[])
 	{
