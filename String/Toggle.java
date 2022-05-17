@@ -1,4 +1,8 @@
-//Toggle case?  Hello worlD	hELLO WORLd
+/*Toggle case?
+  Input : Hello worlD	
+  Output : hELLO WORLd
+  
+  */
 import java.util.Scanner;
 class Toggle
 {
